@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @naveengunasekarang
-- 👀 I’m interested in Learings 
-- 🌱 I’m currently learning Automation and Core Java
+- 👋 Hi, I’m Naveen
+- 👀 I’m interested to learn new tools
 - 💞️ I’m looking to collaborate on New people
 - 📫 How to reach me naveengunaseakran.g@gmail.com
 
